@@ -4,12 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "lerna bootstrap",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lerna:bootstrap": "lerna bootstrap",
+    "lerna:init": "lerna init",
+    "lerna:publish": "lerna publish",
+    "lerna:updated": "lerna updated",
+    "lerna:diff": "lerna diff",
+    "lerna:run": "lerna run",
+    "lerna:ls": "lerna ls",
+    "lerna:help": "lerna --help"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lerna": "^2.0.0-beta.6"
+    "lerna": "2.0.0-beta.6"
   }
 }
