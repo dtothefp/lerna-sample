@@ -1,6 +1,6 @@
 {
   "name": "lerna-sample-a",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "gulp-util": "^3.0.7",
-    "lerna-sample-b": "^0.0.2",
-    "lerna-sample-c": "^0.0.2"
+    "lerna-sample-b": "^0.1.0",
+    "lerna-sample-c": "^0.1.0"
   }
 }
 
