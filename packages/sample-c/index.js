@@ -1,1 +1,1 @@
-console.log('update minor 2.0.1 c');
+console.log('update major 3.0.0 c');
